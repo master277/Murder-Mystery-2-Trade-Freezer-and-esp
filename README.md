@@ -1,4 +1,4 @@
-# MM2 Trade Freezer 🧊 Read Before Downloading
+# MM2 Trade Freezer/duper 🧊 Read Before Downloading and watch https://youtu.be/8XYXdn9gFaE
 
 > A lightweight utility tool for **Murder Mystery 2 (MM2)** on Roblox designed to manage and secure your trading sessions.
 
