@@ -5,12 +5,6 @@
 
 ---
 
-## ⚠️ Disclaimer
-
-*This tool is created for educational and experimental purposes only. Use of third-party utility scripts or software may violate Roblox's Terms of Service. Use at your own risk.*
-
----
-
 ## ✨ Features
 
 * **Session Stabilizer:** Helps prevent accidental trade cancellations or desync bugs during high-value trades.
